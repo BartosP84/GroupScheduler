@@ -1,0 +1,14 @@
+* 
+
+
+Segítség:
+
+Ha mindent kitöltöttél, a beosztást a "Beosztás készítése" gombra kattintva tudod elkészíteni, ami egy Excel fájlt fog előállítani.
+
+Legközelebb (például 1 év múlva) betöltheted ezt az Excel fájlt a "Korábbi beosztás betöltése" gombra kattintva.
+
+Ez azért praktikus, mert a következő évben csak betöltöd az előző évi beosztást, azután frissíted az évszámot és a névlistát, majd egy kattintásra elkészíted az Excel fájlt.
+
+Lent kiválaszthatod, melyik csoport kezdje a sort. Ezzel be tudod állítani, hogy januárban az előző évi utolsó csoportot követő csoport kezdjen, így a beosztás folytonos marad.
+
+Ha bármi gond adódik, bátran keress a petyo.bartos@gmail.com e-mail címen!
