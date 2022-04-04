@@ -24,3 +24,17 @@ f:\Backup\__Backup_2022_01_14_Conti\Tools\_OwnProjects\BeosztasGenerator\obj\x86
 f:\Backup\__Backup_2022_01_14_Conti\Tools\_OwnProjects\BeosztasGenerator\obj\x86\Debug\BeosztasGenerator.csproj.CopyComplete
 f:\Backup\__Backup_2022_01_14_Conti\Tools\_OwnProjects\BeosztasGenerator\obj\x86\Debug\BeosztasGenerator.exe
 f:\Backup\__Backup_2022_01_14_Conti\Tools\_OwnProjects\BeosztasGenerator\obj\x86\Debug\BeosztasGenerator.pdb
+c:\Users\Bartos Család\Desktop\Minden\Fejlesztések\GroupScheduler\bin\Debug\BeosztasGenerator.exe.config
+c:\Users\Bartos Család\Desktop\Minden\Fejlesztések\GroupScheduler\bin\Debug\BeosztasGenerator.exe
+c:\Users\Bartos Család\Desktop\Minden\Fejlesztések\GroupScheduler\bin\Debug\BeosztasGenerator.pdb
+c:\Users\Bartos Család\Desktop\Minden\Fejlesztések\GroupScheduler\bin\Debug\EPPlus.xml
+c:\Users\Bartos Család\Desktop\Minden\Fejlesztések\GroupScheduler\obj\x86\Debug\BeosztasGenerator.csproj.AssemblyReference.cache
+c:\Users\Bartos Család\Desktop\Minden\Fejlesztések\GroupScheduler\obj\x86\Debug\BeosztasGenerator.csproj.SuggestedBindingRedirects.cache
+c:\Users\Bartos Család\Desktop\Minden\Fejlesztések\GroupScheduler\obj\x86\Debug\BeosztasGenerator.Form1.resources
+c:\Users\Bartos Család\Desktop\Minden\Fejlesztések\GroupScheduler\obj\x86\Debug\BeosztasGenerator.Properties.Resources.resources
+c:\Users\Bartos Család\Desktop\Minden\Fejlesztések\GroupScheduler\obj\x86\Debug\BeosztasGenerator.csproj.GenerateResource.cache
+c:\Users\Bartos Család\Desktop\Minden\Fejlesztések\GroupScheduler\obj\x86\Debug\BeosztasGenerator.csproj.CoreCompileInputs.cache
+c:\Users\Bartos Család\Desktop\Minden\Fejlesztések\GroupScheduler\obj\x86\Debug\BeosztasGenerator.csproj.Fody.CopyLocal.cache
+c:\Users\Bartos Család\Desktop\Minden\Fejlesztések\GroupScheduler\obj\x86\Debug\BeosztasGenerator.csproj.CopyComplete
+c:\Users\Bartos Család\Desktop\Minden\Fejlesztések\GroupScheduler\obj\x86\Debug\BeosztasGenerator.exe
+c:\Users\Bartos Család\Desktop\Minden\Fejlesztések\GroupScheduler\obj\x86\Debug\BeosztasGenerator.pdb
